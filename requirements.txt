@@ -1,0 +1,9 @@
+fastapi==0.128.0
+uvicorn
+python-multipart
+tensorflow==2.20.0
+numpy==2.0.2
+pillow==11.3.0
+pdf2image==1.17.0
+python-dotenv
+keras==3.10.0
